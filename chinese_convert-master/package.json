@@ -1,0 +1,31 @@
+{
+  "name": "chinese_convert",
+  "version": "1.0.8",
+  "description": "簡繁轉換 (簡體轉繁體，繁體轉簡體)",
+  "main": "chinese_convert.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": {},
+  "keywords": [
+    "chinese",
+    "convert",
+    "zh",
+    "cn",
+    "tw"
+  ],
+  "homepage": "https://github.com/ccckmit/chinese_convert",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ccckmit/chinese_convert.git"
+  },
+  "author": {
+    "name": "Chung-Chen Chen",
+    "email": "ccckmit@gmail.com"
+  },
+  "license": "MIT"
+}
